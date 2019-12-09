@@ -102,10 +102,6 @@ public class Event {
 		return cells.size();
 	}
 	
-	public void Answer(int ans)
-	{
-		
-	}
 	
 	public JSONObject getObj()
 	{
